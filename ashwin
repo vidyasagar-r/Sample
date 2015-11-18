@@ -1,1 +1,2 @@
-want to create  a file
+def bit2git(bit_repo, git_repo):
+	print 'Work in progress'
